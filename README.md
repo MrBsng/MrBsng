@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @TBYT also known as Brian.
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently working proficiently in Java and C#.
-- 💞️ I’m looking to collaborate on anything.
+- 🌱 I am well versed in in Java Springboot, PHP Laravel and C# ASP.NET Core MVC.
 - 📫 How to reach me: [Linkedin](https://linkedin.com/in/tbyt)
 
 <!---
