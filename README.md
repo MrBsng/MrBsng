@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MrBsng also known as Brian.
 - 👀 I’m interested in Web Development.
 - 🌱 I am well versed in in Java Springboot, PHP Laravel and C# ASP.NET Core MVC.
-- 📫 How to reach me: [Linkedin](https://linkedin.com/in/tbyt)
+- 📫 How to reach me: [Linkedin](https://linkedin.com/in/bsng)
 
 <!---
 MrBsng/MrBsng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
